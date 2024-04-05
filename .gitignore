@@ -1,0 +1,5 @@
+# containers
+containers/minio/data/.minio.sys
+
+# services
+__pycache__
